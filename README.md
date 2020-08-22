@@ -17,7 +17,7 @@ HTML, CSS, JavaScript, Mongo DB, Mongoose
 NPM Packages: Express, Morgan, Mongoose
 
 ## Demonstration & output
-Deployed Site: https://workout-tracking-application.herokuapp.com/
+Deployed Site: https://fast-beach-89137.herokuapp.com/
 
 Output: 
 
